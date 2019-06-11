@@ -1,0 +1,12 @@
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\bin\Debug\RiotAPIv4Test.exe.config
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\bin\Debug\RiotAPIv4Test.exe
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\bin\Debug\RiotAPIv4Test.pdb
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\bin\Debug\RiotAPIv4.dll
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\bin\Debug\RiotAPIv4.pdb
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\obj\Debug\RiotAPIv4Test.csprojResolveAssemblyReference.cache
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\obj\Debug\RiotAPIv4Test.Properties.Resources.resources
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\obj\Debug\RiotAPIv4Test.csproj.GenerateResource.Cache
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\obj\Debug\RiotAPIv4Test.exe
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4Test\obj\Debug\RiotAPIv4Test.pdb

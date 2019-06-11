@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using RiotAPIv4;
+
+namespace RiotAPIv4Test
+{
+    static class Program
+    {
+        /// <summary>
+        /// Der Haupteinstiegspunkt für die Anwendung.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            RiotClient rc = new RiotClient();
+            
+
+
+
+        }
+    }
+}

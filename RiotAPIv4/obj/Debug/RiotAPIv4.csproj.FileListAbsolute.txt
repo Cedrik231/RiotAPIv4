@@ -1,0 +1,7 @@
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4\bin\Debug\RiotAPIv4.dll
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4\bin\Debug\RiotAPIv4.pdb
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4\obj\Debug\RiotAPIv4.dll
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4\obj\Debug\RiotAPIv4.pdb
+C:\Users\strate\Source\Repos\RiotAPIv4\RiotAPIv4\obj\Debug\RiotAPIv4.csprojResolveAssemblyReference.cache
